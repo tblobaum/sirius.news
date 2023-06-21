@@ -2,7 +2,7 @@
 ---
 title: Liberal American Daily News for June 21st 2023 
 post_status: publish
-post_date: 2023-06-21 08:46:39 
+post_date: 2023-06-21 16:42:33 
 post_excerpt:  
 featured_image: _images/ 
 taxonomy:
@@ -12,8 +12,4 @@ taxonomy:
         - Liberal 
 ---
 
-Justice Samuel Alito Took Luxury Fishing Vacation With GOP Billionaire Who Later Had Cases Before The Court: Justice Samuel Alito of the Supreme Court went on a luxury fishing vacation with a Republican billionaire, Paul Singer, who had later brought cases before the court. This has raised concerns about potential ethical issues and conflicts of interest, as Alito is supposed to be impartial and unbiased in his decision-making. The vacation was first revealed by Propublica, and it has sparked calls for stricter ethics rules for justices.
-
-Parkland Deputy Would Have Seen Bodies If He Opened Door, Officer Testifies: In the ongoing trial of former sheriff&#39;s Deputy Scot Peterson, who is facing charges for his response during the 2018 Parkland school shooting, witness testimony revealed that Peterson would have seen the bodies of the victims if he had opened the door to the building where the shooting took place. The prosecution argues that Peterson failed in his duty to protect the students and staff at the school. This trial is significant as it holds law enforcement accountable for their actions during mass shootings.
-
-Search Crews Detect Underwater Noises In Hunt For Missing Submersible: In the search for a missing submersible, search crews have detected underwater noises that could be related to the missing vessel. The submersible, named Titan, went missing while conducting a deep-sea dive, and efforts are ongoing to locate and rescue the crew members. This news highlights the risks and challenges of deep-sea exploration and the importance of safety measures to prevent such incidents. 
+The headlines on HuffPost include: &quot;Justice Samuel Alito Took Luxury Fishing Vacation With GOP Billionaire Who Later Had Cases Before The Court&quot;, &quot;Hawaii Volcano Stops Erupting, Putting An End To Stunning Lava Show&quot;, &quot;Days Of Sweltering Heat, Power Cuts In Northern India Overwhelm Hospitals As Death Toll Climbs&quot;, &quot;Parkland Deputy Would Have Seen Bodies If He Opened Door, Officer Testifies&quot;, &quot;Missing Sub Rider Hamish Harding Once Dove Mariana Trench, Accepted Risk Of No Rescue&quot;, &quot;Japan Publishes Report Detailing 25,000 Forced Sterilizations On Citizens, Including 9-Year-Olds&quot;, &quot;Infowars Host Owen Shroyer Set To Plead Guilty In Jan. 6 Capitol Riot Case&quot;, &quot;Republicans Describe Hunter Biden Criminal Charges As More Proof Of Joe Biden&#39;s Corruption&quot;, &quot;Florida Deputy And Motorist Survive Being Swept Through Storm Drain Amid Huge Rainstorm&quot;, and &quot;Stonewall&#39;s LGBTQ+ Pride Flags Have Been Vandalized 3 Times So Far This Month&quot;. 
